@@ -9,4 +9,4 @@ pip install beautifulsoup4
 pip install pyperclip
 ```
 # video
-
+https://youtu.be/QN5mjbK7_FM
